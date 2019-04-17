@@ -1,2 +1,2 @@
-# lastfy
+# Lastfy
 LastFM Spotify Playlist creator
